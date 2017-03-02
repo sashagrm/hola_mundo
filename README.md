@@ -1,2 +1,6 @@
 # hola_mundo
-Repositorio tutoral
+Repositorio tutorial
+
+Este es el archivo README en el cual describe el contenido de este tutorial
+
+Saludos
